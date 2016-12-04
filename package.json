@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "web application template by webpack",
   "main": "webpack.config.js",
-  "dependencies": {
+  "devDependencies": {
     "html-webpack-plugin": "^2.24.1",
     "json-loader": "^0.5.4",
     "webpack": "^1.13.3",
     "yaml-loader": "^0.4.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
